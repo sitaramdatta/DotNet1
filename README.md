@@ -1,2 +1,2 @@
 # DotNet1
-This my first Repositiry
+This my first Repository
